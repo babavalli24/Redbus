@@ -1,0 +1,9 @@
+docker run -d --name=grafana -p 3000:3000 grafana/grafana
+docker run --name prometheus -d -p 127.0.0.1:9090:9090 prom/prometheus
+
+
+Github new account
+-----------------------------
+shaikvalli2024@gmail.com
+BABA@2024baba
+github token: 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
